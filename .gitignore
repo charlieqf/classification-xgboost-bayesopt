@@ -1,0 +1,5 @@
+# Ignore environment folder
+jupyter_env/
+
+# Ignore nohup output
+nohup.out
